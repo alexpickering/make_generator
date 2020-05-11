@@ -3,7 +3,6 @@
 
 import os
 import argparse
-import argparse
 
 def main():
     parser = argparse.ArgumentParser()
